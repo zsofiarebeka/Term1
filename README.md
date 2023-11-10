@@ -11,7 +11,7 @@ I found and loaded the data from the Relational dataset repository. (Source: htt
 - And its size is 6.4 MB.
 
 ## 1. Database Setup:
-I downloaded the SQL files containing the data and schema that was provided on the internet. I cleaned them and deleted unnecessary parts, e.g. default exercises and solutions, copyright warnings. For the sake of transparency, I separated the project into two queries: In the Operational_Data_Layer, I loaded my schema and created all the tables. I also designed and created a denormalized table to optimize data for analytical queries, called `analytical_layer`.
+I downloaded the SQL files containing the data and schema that was provided on the internet. I cleaned them and deleted unnecessary parts, e.g. default exercises and solutions, copyright warnings. For the sake of transparency, I separated the project into two queries: In the `Operational_Data_Layer`, I loaded my schema and created all the tables. I also designed and created a denormalized table to optimize data for analytical queries, called `analytical_layer`.
 
 ## 2. Data Analysis Queries:
 In the second query, called `Term_codes`, I analyzed the following aspects:
