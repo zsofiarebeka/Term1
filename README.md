@@ -20,6 +20,7 @@ In the second query, called `Term_codes`, I analyzed the following aspects:
 - Which cities have the highest average rental duration?
 - Who are the top 5 renters and how many rentals they had?
 - Which customers returned their rented movies late?
+
 Understanding the demographics of the renters (e.g. location) can help in tailoring the marketing efforts and product offerings to specific customer segments.
 
 ### Film and Genre Analysis:
