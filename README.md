@@ -27,6 +27,7 @@ Understanding the demographics of the renters (e.g. location) can help in tailor
 - What is the most popular genre with the highest number of rentals?
 - How many copies of a specific film are currently available for rent?
 - What is the total revenue generated for each film genre?
+
 Understanding which genres generate the most revenue helps in optimizing inventory, marketing strategies, and expanding offerings. By knowing how many copies of a specific film are available, we can ensure that popular titles have enough copies in stock to meet customer demand and we can maximize revenue potential. This prevents situations where customers can't rent their desired film due to insufficient copies. Moreover, in the case of less popular movies, we can reevaluate their rental potential and optimize their inventory.
 
 ### Revenue and performance analysis:
