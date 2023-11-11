@@ -43,6 +43,6 @@ I created stored procedures to encapsulate and execute some of the mentioned ana
 I performed ETL operations by extracting data from the data warehouse table (`analytical_layer`), transforming it to meet specific analysis requirements, and loading it into views or tables.
 
 ## 5. Event Scheduler
-I set up an event scheduler to automate am ETL job, which in my case was generating a monthly report. This procedure automates the process of generating monthly reports, making it efficient and convenient for management to track revenue trends over time.
+I set up an event scheduler to automate an ETL job, which in my case was generating a monthly report. This procedure automates the process of generating monthly reports, making it efficient and convenient for management to track revenue trends over time.
 
 
