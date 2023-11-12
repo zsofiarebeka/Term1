@@ -38,11 +38,11 @@ This analysis helps to identify the most profitable films in terms of rental fee
 
 ### Genre Performance Data Mart:
 
-The Genre Performance Data Mart analyzes movie genre performance, derived from the `analytical_layer` table. It guides inventory management and marketing strategies by revealing popular genres and customer preferences.
+The Genre Performance Data Mart analyzes movie genre performance, derived from the `analytical_layer` table. It guides inventory management and marketing strategies by revealing popular genres and customer preferences. By aggregating this data based on genre categories, the mart provides a clear picture of total rentals, average rental duration, and total revenue for each genre. 
 
 ### Customer Rental Analysis Data Mart:
 
-This mart focuses on customer rental patterns using data from the `analytical_layer` table. Insights into customer behavior aid in targeted marketing, customer retention, and overall rental trend identification.
+This mart focuses on customer rental patterns using data from the `analytical_layer` table. Insights into customer behavior aid in targeted marketing, customer retention, and overall rental trend identification. This mart selects relevant customer details, aggregates rental information, and calculates average rental duration and total revenue. The line of thought here was to create a comprehensive view of each customer's rental history for effective analysis and decision support.
 
 ## 3. Stored Procedures
 I created stored procedures to encapsulate and execute some of the mentioned analytical queries.
